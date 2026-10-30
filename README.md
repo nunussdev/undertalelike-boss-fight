@@ -78,10 +78,8 @@ During the dodging portions, movement is read from Unity's **Horizontal** and **
 ### Battle Interface
 ![Battle Interface](screenshots/battle.png)
 
-### Knife Attack
 ![Knife Attack](screenshots/attack.png)
 
-### Laser Attack
 ![Laser Attack](screenshots/fight.png)
 
 
