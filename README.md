@@ -4,7 +4,18 @@
 
 This is a personal game-development project focused on recreating the *feel* of a turn-based boss encounter while implementing the gameplay systems in C#. It combines player-controlled dodging, projectile patterns, timed attacks, collision-based damage, and battle UI.
 
-> **Status:** Unity source project. A standalone downloadable build is not currently provided in this repository.
+## Download & Play (Windows)
+
+**[Download the latest playable Windows release](https://github.com/nunussdev/undertalelike-boss-fight/releases/latest)**
+
+1. Open the link above and download the Windows ZIP file from the release's **Assets** section (not the auto-generated **Source code** archives).
+2. Extract the ZIP file to a folder on your computer.
+3. Run `undertalelike-boss-fight.exe` to start the game.
+
+**Platform:** Windows  
+**Unity installation:** Not required to play the downloadable build.
+
+To explore or modify the game's source code instead, follow the Unity setup instructions below.
 
 ## Features
 
