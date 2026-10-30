@@ -72,9 +72,18 @@ ProjectSettings/
 
 During the dodging portions, movement is read from Unity's **Horizontal** and **Vertical** axes (typically arrow keys or WASD with the standard mappings).
 
+
 ## Gameplay Preview
 
-Screenshots or a short gameplay GIF will be added here to demonstrate the fight and its attack patterns.
+### Battle Interface
+![Battle Interface](screenshots/battle.png)
+
+### Knife Attack
+![Knife Attack](screenshots/knife-attack.png)
+
+### Laser Attack
+![Laser Attack](screenshots/laser-attack.png)
+
 
 ## What I Practiced
 
